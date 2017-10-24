@@ -1,0 +1,4 @@
+﻿  ConsoleApplication10.cpp
+c:\users\jiyeon\source\repos\consoleapplication10\consoleapplication10\consoleapplication10.cpp(18): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\jiyeon\source\repos\consoleapplication10\consoleapplication10\consoleapplication10.cpp(31): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  ConsoleApplication10.vcxproj -> c:\users\jiyeon\source\repos\ConsoleApplication10\Debug\ConsoleApplication10.exe
