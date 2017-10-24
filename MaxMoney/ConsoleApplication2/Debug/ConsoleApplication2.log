@@ -1,0 +1,6 @@
+﻿  ConsoleApplication2.cpp
+c:\users\jiyeon\source\repos\consoleapplication2\consoleapplication2\consoleapplication2.cpp(62): warning C4473: 'scanf_s' : not enough arguments passed for format string
+  c:\users\jiyeon\source\repos\consoleapplication2\consoleapplication2\consoleapplication2.cpp(62): note: placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+  c:\users\jiyeon\source\repos\consoleapplication2\consoleapplication2\consoleapplication2.cpp(62): note: the missing variadic argument 2 is required by format string '%c'
+  c:\users\jiyeon\source\repos\consoleapplication2\consoleapplication2\consoleapplication2.cpp(62): note: this argument is used as a buffer size
+  ConsoleApplication2.vcxproj -> C:\Users\Jiyeon\source\repos\ConsoleApplication2\Debug\ConsoleApplication2.exe
