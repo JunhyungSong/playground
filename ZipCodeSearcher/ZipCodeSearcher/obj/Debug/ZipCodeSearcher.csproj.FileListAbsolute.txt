@@ -1,0 +1,9 @@
+C:\Users\Jiyeon\source\repos\ZipCodeSearcher\ZipCodeSearcher\bin\Debug\ZipCodeSearcher.exe
+C:\Users\Jiyeon\source\repos\ZipCodeSearcher\ZipCodeSearcher\bin\Debug\ZipCodeSearcher.pdb
+C:\Users\Jiyeon\source\repos\ZipCodeSearcher\ZipCodeSearcher\obj\Debug\ZipCodeSearcher.csprojResolveAssemblyReference.cache
+C:\Users\Jiyeon\source\repos\ZipCodeSearcher\ZipCodeSearcher\obj\Debug\ZipCodeSearcher.ZipCodeInfo.resources
+C:\Users\Jiyeon\source\repos\ZipCodeSearcher\ZipCodeSearcher\obj\Debug\ZipCodeSearcher.Properties.Resources.resources
+C:\Users\Jiyeon\source\repos\ZipCodeSearcher\ZipCodeSearcher\obj\Debug\ZipCodeSearcher.csproj.GenerateResource.Cache
+C:\Users\Jiyeon\source\repos\ZipCodeSearcher\ZipCodeSearcher\obj\Debug\ZipCodeSearcher.csproj.CoreCompileInputs.cache
+C:\Users\Jiyeon\source\repos\ZipCodeSearcher\ZipCodeSearcher\obj\Debug\ZipCodeSearcher.exe
+C:\Users\Jiyeon\source\repos\ZipCodeSearcher\ZipCodeSearcher\obj\Debug\ZipCodeSearcher.pdb
